@@ -1,0 +1,3 @@
+C:/Users/ander/OneDrive/development/MinecraftInventory/cmake-build-debug/CMakeFiles/MinecraftInventory.dir
+C:/Users/ander/OneDrive/development/MinecraftInventory/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ander/OneDrive/development/MinecraftInventory/cmake-build-debug/CMakeFiles/rebuild_cache.dir
